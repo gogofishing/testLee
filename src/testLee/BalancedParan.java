@@ -2,7 +2,7 @@ package testLee;
 
 import testLee.BalancedParan.stack;
 
-//Java program for checking
+
 //balanced Parenthesis
 
 public class BalancedParan 

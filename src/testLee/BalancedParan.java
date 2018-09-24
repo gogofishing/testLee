@@ -3,7 +3,8 @@ package testLee;
 import testLee.BalancedParan.stack;
 
 
-//balanced Parenthesis
+//balanced Parenthesis using java
+
 
 public class BalancedParan 
 {
